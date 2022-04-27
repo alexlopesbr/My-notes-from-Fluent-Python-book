@@ -27,4 +27,15 @@ exemple | page | description
 02.21 | 79 | Changing the value of an array item by changing one of its bytes
 02.22 | 80 | Basic operations with rows and columns in a `numpy.ndarray`
 02.23 | 81 | Working with a deque
-03.03 | 96 | Dictcomps exemples
+03.01 | 96 | Dictcomps exemples
+03.02 | 98 | index0.py uses dict.get to fetch and update a list of word occurrences from the index(a better solution will be presented in example 3.4)
+03.04 | 100 | index.py uses dict.get to fetch and update a list of word occurrences from the index on a single line (compare example 3.2)
+03.05 | 101 | index_default.py: using an instance of defaultdict instead of setdefault
+03.06 | 103 | When fetching a non-string key, StrKey0 will convert it to str if it is not found
+03.08 | 107 | StrKeyDictm always converts non-string keys to str - on insert, update and query
+03.09 | 109 | MappingProxiType creates a read-only mappingproxy instance from a dict
+03.10 | 110 | Occurrence account of needles occurrence in haystack, both `set` type (exemples 3.11 and 3.12 to be presented)
+03.13 | 113 | Creates a set of Latin-1 characters that have the word "SIGN" in their Unicode names
+03.17 | 123 | dialcode.py fills three dictionaries with the same data ordered in different ways
+04.01 | 130 | Coding and decoding
+04.02 | 132 | A sequence of five bytes in `bytes` and as `bytearray`
