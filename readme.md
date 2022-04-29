@@ -39,3 +39,6 @@ exemple | page | description
 03.17 | 123 | dialcode.py fills three dictionaries with the same data ordered in different ways
 04.01 | 130 | Coding and decoding
 04.02 | 132 | A sequence of five bytes in `bytes` and as `bytearray`
+04.03 | 134 | Initializing bytes from raw array data
+04.04 | 135 | Using `memoryview` and `struct` to inspect the header of a GIF image
+04.05 | 136 | The string "El Niño" encoded with three codecs generating very different sequences of bytes
