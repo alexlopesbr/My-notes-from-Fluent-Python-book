@@ -42,3 +42,6 @@ exemple | page | description
 04.03 | 134 | Initializing bytes from raw array data
 04.04 | 135 | Using `memoryview` and `struct` to inspect the header of a GIF image
 04.05 | 136 | The string "El Niño" encoded with three codecs generating very different sequences of bytes
+04.06 | 138 | Byte encoding: success and error handling
+04.07 | 139 | Decoding str to bytes: success and error handling
+04.09 | 145 | A platform-related decoding problem (if you test this code on your computer, you may or may not see the problem)
