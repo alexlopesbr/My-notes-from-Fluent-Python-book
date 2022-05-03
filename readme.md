@@ -45,3 +45,5 @@ exemple | page | description
 04.06 | 138 | Byte encoding: success and error handling
 04.07 | 139 | Decoding str to bytes: success and error handling
 04.09 | 145 | A platform-related decoding problem (if you test this code on your computer, you may or may not see the problem)
+04.10 | 145 | Closer inspection of example 4.9 running on windows shows how to fix it
+04.11 | 146 | Exploring defaults for codification
