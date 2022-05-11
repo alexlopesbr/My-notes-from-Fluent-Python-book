@@ -47,3 +47,7 @@ exemple | page | description
 04.09 | 145 | A platform-related decoding problem (if you test this code on your computer, you may or may not see the problem)
 04.10 | 145 | Closer inspection of example 4.9 running on windows shows how to fix it
 04.11 | 146 | Exploring defaults for codification
+04.13 | 154 | bormeq.py normalized Unicode string comparison
+04.14 | 156 | Function to remove all combined tags (sanitize.py module)
+04.15 | 156 | Two exemples tha use shave_marks from exemple 04.14
+04.16 | 157 | Function to remove mixed tags from latin characters
